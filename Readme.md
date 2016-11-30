@@ -1,0 +1,1 @@
+detect usb disk count at windows os.
